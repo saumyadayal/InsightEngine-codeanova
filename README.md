@@ -205,3 +205,10 @@ Code A Nova – Data Science Internship Project
 ---
 
 *This project is currently under active development as part of the Code A Nova Internship Program.*
+
+## Roadmap
+
+- Complete Churn Prediction
+- Recommendation Engine
+- Streamlit Deployment
+- Business Report
